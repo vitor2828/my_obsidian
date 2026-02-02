@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "college/web/HTTP.md",
+                "file": "personal/philosophy/Confucionismo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP"
+              "title": "Confucionismo"
             }
           }
         ]
@@ -183,14 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "41de03a7c8ff1e47",
+  "active": "52f81abb36f2bd46",
   "lastOpenFiles": [
+    "personal/philosophy/Filosofia Oriental.md",
+    "personal/philosophy/Confucionismo.md",
+    "personal/philosophy",
+    "college/web/HTTP.md",
     "images/Pasted image 20260202134422.png",
     "images",
     "images/Pasted image 20260202134253.png",
     "college/web",
     "college/TESTE.md",
-    "college/web/HTTP.md",
     "personal/linguistics",
     "college",
     "personal"
