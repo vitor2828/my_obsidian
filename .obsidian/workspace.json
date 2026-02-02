@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "college/TESTE.md",
+                "file": "college/web/HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TESTE"
+              "title": "HTTP"
             }
           }
         ]
@@ -185,7 +185,13 @@
   },
   "active": "41de03a7c8ff1e47",
   "lastOpenFiles": [
+    "images/Pasted image 20260202134422.png",
+    "images",
+    "images/Pasted image 20260202134253.png",
+    "college/web",
     "college/TESTE.md",
+    "college/web/HTTP.md",
+    "personal/linguistics",
     "college",
     "personal"
   ]
