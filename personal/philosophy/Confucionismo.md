@@ -26,8 +26,17 @@ Vale ressaltar que o Confucionismo compartilha de aspectos básicos da cosmologi
 
 Nesse sentido, surgem a moral e a ética social confucionistas, endossadas por meio das Cinco Virtudes, elaboradas por pensadores muito após a morte de Confúcio. Elas foram citadas anteriormente, sendo:
 
-* Ren (Justiça), a principal das virtudes, representa benevolência, confiabilidade, coragem, compaixão, empatia e reciprocidade. É a essência do homem em comunhão com o Céu, tornando-se um com ele. Ren é expressado por meio de relações interpessoais e pode ser cultivado por meio de rituais (Li), máximas das interações de uma sociedade harmoniosa. Por fim, essa virtude também é central para a teoria política confucionista, em que um governante virtuoso lidera por meio do exemplo moral e prioriza o bem-estar de seu povo;
-* 
+* Ren , a principal das virtudes, representa benevolência, confiabilidade, coragem, compaixão, empatia e reciprocidade. É a essência do homem em comunhão com o Céu, tornando-se um com ele. Ren é expressado por meio de relações interpessoais e pode ser cultivado por meio de rituais (Li), máximas das interações de uma sociedade harmoniosa. Por fim, essa virtude também é central para a teoria política confucionista, em que um governante virtuoso lidera por meio do exemplo moral e prioriza o bem-estar de seu povo;
+* Yi representa a justiça e a moralidade. Trata-se da disposição moral de se fazer o bem, além da intuição e sensibilidade para fazê-lo corretamente. Nessa virtude, valoriza-se mais do que simplesmente fazer o que as regras impõem, mas sim entender as situações e fazer decisões sensatas para o bem geral. Relaciona-se profundamente com Ren e Li.
+* Li, ou os ritos, que pode ter uma conotação geral, isto é, o simples comportamento humano, ou religioso, estabelecendo a conexão entre a humanidade e os deuses. É por meio dos ritos que o homem é capaz de compreender a natureza e se aproximar da união com ela, tornando-se assim um indivíduo completo.
+* Zhi, a sabedoria, consiste em diferenciar o certo do errado. Trata-se do aprendizado constante, do entendimento interpessoal e da sábia aplicação do conhecimento, muito além do contexto acadêmico.
+* Xin, a integridade, baseado na sinceridade e na confiabilidade.
+
+Há várias outros termos importantes para o pensamento confucionistas. Destacam-se, por exemplo, a lealdade, a honestidade, a bravura e, em especial, a piedade filial, o respeito e a honra inerentes às hierarquias sociais, como entre pais e filhos, mestres e alunos. Esse último fator é proeminente na cultura chinesa.
+
+De maneira geral, o Confucionismo supera, e muito, as esferas filosóficas e religiosas: teve enorme influência política, histórica e social, sendo profundamente importante entender sua estrutura, críticas (inclusive, essas críticas são bem interessantes, visto que, principalmente num contexto de transição cultural da China, o Confucionismo foi visto como um movimento retrógrado que perpetuava valores de sujeição cega aos superiores. Além disso, pode-se identificar certos valores incongruentes aos dos dias atuais, principalmente no que faz jus às mulheres, que eram muitas vezes subalternas aos homens, posição fortalecida pela virtude da piedade filial. No entanto, deve-se sempre resguardar-se de interpretações anacrônicas, de modo a considerar sempre o contexto ao qual certa linha de pensamento pertence) e dogmas para compreender o estado atual de várias sociedades asiáticas.
+
+Obs: posteriormente, pesquisar mais sobre aspectos históricos do Confucionismo, de modo a identificar como seu contexto o influenciou.
 
 
 
